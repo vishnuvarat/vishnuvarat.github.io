@@ -55,6 +55,7 @@ body{
 			font-family: "Crimson";
 			line-height: 28px;
 		    font-size: 16px;
+		text-align: justify;
 		    padding-top: 15px;
 		    padding-right: 50px;
 		}
@@ -71,7 +72,7 @@ body{
 .btn-rabbit{
 	background-color: #fff;
 	color: #111;
-	font-style: italic;
+	font-style: bold;
 	border: 1px solid #111;
 	border-radius: 0px !important;
 	transition: all 0.4s ease-in-out;
@@ -208,12 +209,13 @@ footer{
 }
 
 .subtitle{
-	font-style: italic;
+	font-style: bold;
 	font-weight: 600;
 	font-size: 20px;
 	color: #3b3b3b;
 	line-height: 28px;
 	font-family: "Crimson";
+	text-align: justify;
 	margin-top: 15px;
 	margin-bottom: 20px;
 	padding-right: 40px;
