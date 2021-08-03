@@ -31,8 +31,8 @@ body{
 
 .social a:hover i{
 	color: #fff;
-	border-color: #bb9e7d;
-	background-color: #bb9e7d;
+	border-color: #494949;
+	background-color: #494949;
 	}
 
 
@@ -83,8 +83,8 @@ body{
 
 .btn-rabbit:hover{
 	color: #fff;
-	background-color: #bb9e7d;
-	border-color: #bb9e7d;}
+	background-color: #494949;
+	border-color: #494949;}
 
 p{
 	color: #585757;
@@ -298,7 +298,7 @@ footer{
 
 .owl-theme .owl-controls .owl-nav [class*=owl-]:hover{
 	background-color: #494949;
-	border-color: #bb9e7d;
+	border-color: #494949;
 }
 .owl-theme .owl-controls .owl-nav [class*=owl-]:hover i{
 	color: #fff;
