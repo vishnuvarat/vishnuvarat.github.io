@@ -67,7 +67,7 @@ body{
 }
 .img-rabbit{
 	width: 100%;
-	background-attachment: fixed;
+	background-attachment: scroll;
 }
 .btn-rabbit{
 	background-color: #fff;
