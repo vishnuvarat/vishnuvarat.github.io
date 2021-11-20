@@ -67,6 +67,7 @@ body{
 }
 .img-rabbit{
 	width: 100%;	
+	position: absolute;
 }
 .btn-rabbit{
 	background-color: #fff;
