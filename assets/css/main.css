@@ -52,7 +52,7 @@ body{
 
     	.info{
 			font-family: "Crimson";
-			line-height: 28px;
+			line-height: 20px;
 		    font-size: 16px;
 		text-align: justify;
 		    padding-top: 15px;
@@ -210,9 +210,9 @@ footer{
 .subtitle{
 	font-style: bold;
 	font-weight: 600;
-	font-size: 14px;
+	font-size: 16px;
 	color: #3b3b3b;
-	line-height: 24px;
+	line-height: 20px;
 	font-family: "Crimson";
 	text-align: justify;
 	margin-top: 15px;
